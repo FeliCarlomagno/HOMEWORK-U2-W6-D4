@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0.5em;
+}
+
+#ul-container {
+  display: flex;
+  justify-content: center;
+}
+#ul-container ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+#ul-container ul li {
+  margin: 0 1em;
+  font-size: 1.5em;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+#ul-container ul li:hover {
+  transform: scale(1.1);
+}
+
+#ul-container {
+  display: flex;
+  justify-content: center;
+}
+#ul-container ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+#ul-container ul li {
+  margin: 0 1em;
+  font-size: 1.5em;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+#ul-container ul li:hover {
+  transform: scale(1.1);
+}/*# sourceMappingURL=style.css.map */
